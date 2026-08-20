@@ -1,4 +1,4 @@
-users = {"user1": "password1", "user2": "password2"}
+users = {"charl1": "chuckerby1", "charl2": "chuckerby2"}
 
 def login():
     username = input("Enter your username: ")
